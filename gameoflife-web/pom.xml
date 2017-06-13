@@ -188,5 +188,5 @@
      <name>Wakaleo Releases 2</name>
      <url>http://maven.wakaleo.com/releases/</url>
   </repository>
- </repositorie>
+ </repositories>
 </project>
