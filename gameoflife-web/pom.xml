@@ -174,4 +174,19 @@
         </dependency>
 
     </dependencies>
+    
+    <!-- Repository -->
+     
+      <repositories>
+   <repository>
+     <id>wakaleo-releases</id>
+     <name>Wakaleo Releases</name>
+     <url>http://www.wakaleo.com/maven/repos/</url>
+   </repository>
+  <repository>
+     <id>wakaleo-releases-2</id>
+     <name>Wakaleo Releases 2</name>
+     <url>http://maven.wakaleo.com/releases/</url>
+  </repository>
+ </repositorie>
 </project>
