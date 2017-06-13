@@ -414,9 +414,8 @@
                                 <groupId>com.wakaleo.gameoflife</groupId>
                                 <artifactId>gameoflife-build</artifactId>
                                 <version>${project.version}</version>
-                            </dependency>
-                            
-                               <exclusions>
+                                
+                                <exclusions>
                                     <exclusion> 
                                     <groupId>org.slf4j</groupId>
                                     <artifactId>slf4j-log4j12</artifactId>
@@ -426,7 +425,8 @@
                                     <artifactId>log4j</artifactId>
                                   </exclusion>
                                 </exclusions>
-                            
+                                
+                            </dependency>
                             
                         </dependencies>
                     </plugin>
